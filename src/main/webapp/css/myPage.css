@@ -1,0 +1,82 @@
+@charset "UTF-8";
+
+#myPageTbl {
+   margin-top: 100px;
+   margin-left: auto;
+   margin-right: auto;
+   border: 3px dotted #dfdf00;
+   width: 750px;
+   height: 660px;
+}
+
+.myPageTd1{
+   padding-left:20px;
+   width: 150px;
+   text-align: left;
+   
+}
+
+.myPageTd2{
+   text-align:left;
+   width: 480px;
+}
+
+
+#CreatedByMeTbl{
+   margin:10px;
+   margin-top: 50px;
+   border: 3px solid #b1e9fe;
+   width: 850px;
+   border-collapse: collapse;
+   float: left;
+}
+
+#cbmTr1{
+   border-bottom: 1px solid #dadada;
+}
+
+#title{
+   height: 80px;
+}
+
+.cbmTr2{
+   border-bottom: 1px solid #dadada;
+}
+
+#div1{
+   width:1800px;
+   }
+   
+
+
+#cbmUpdateTbl{
+   margin-top:100px;
+   margin-left:auto;
+   margin-right:auto;
+   border: 3px solid #b1e9fe;
+   width: 750px;
+   height: 660px;
+}
+
+.cbmUpdateTd1{
+   padding-left:20px;
+   width: 150px;
+   text-align: left;
+}
+
+.cbmUpdateTd2{
+   text-align:left;
+   width: 480px;
+}
+
+.cbmUpdateTd2 input{
+   border-color:#d8d8d8;
+   border-radius:6px;
+   height: 20px;
+   
+}
+
+.cbmUpdateTd2 select{
+   border-color:#d8d8d8;
+   height: 27px;
+}

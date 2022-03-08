@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+#answerTbl{
+	margin-top: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 15pt;
+}
+
+#accBtn{
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #EFEFEF;
+	color: black;
+	border-radius: 5px;
+	width: 80px;
+	height: 40px;
+}
+
+#groundTbl{
+	font-size: 15pt;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    margin: -100px 0px 0px -150px;
+    padding: 5px;
+}
+

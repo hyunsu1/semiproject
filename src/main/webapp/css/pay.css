@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+#payTbl {
+   border: 3px solid #ff0000;
+   width: 350px;
+}
+
+#payTr {
+   margin-bottom: 10px;
+}
+
+#payTd {
+   border-bottom: 1px solid #ff0000;
+}
+
+#payTd2 {
+   text-align: center;
+}
+
+#payBtn {
+   margin-left: auto;
+   margin-right: auto;
+   background-color: #ff8080;
+   color: white;
+}
+
+#payBtn2 {
+   margin-left: auto;
+   margin-right: auto;
+   background-color: #ffffff;
+   color: #ff8080;
+}

@@ -1,0 +1,99 @@
+@charset "UTF-8";
+
+#moimSearch{
+	margin-left: 1200px;
+}
+
+#moimArea{
+	width: 100px;
+	height: 25px;
+}
+
+#searchName{
+	display: inline;
+	width: 140px;
+	height: 20px;
+}
+
+#searchBtn{
+	margin-left: -1px;
+	display: inline;
+	background-color: blue;
+	color: white;
+}
+
+#moimBack{
+	background-color: #eeeeee;
+	margin-left: 10px;
+	width: 1600px;
+	height: 500px;
+	padding: 30px;
+	margin-top: 10px;
+}
+
+.card{
+	display: inline-block;
+	width: 270px;
+	margin: 15px;
+	background-color: white;
+	padding: 5px
+}
+
+.card-title{
+	text-align: center;
+}
+
+.card-text{
+	text-align: center;
+}
+
+#crtBtnBtn{
+	margin-left: 50px;
+	background-color: #168ae9;
+	color: white;
+	border-radius: 5px;
+	width: 60px;
+	height: 30px;
+}
+
+#moimBlock{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+#arrowBtn{
+	font-size: 45px;
+}
+
+#photoTbl{
+	width: 1600px;
+	align-content: center;
+}
+
+#photoTh1{
+	margin-left: 100px;
+	width: 700px;
+	text-align: right;
+	font-size: 20px;
+}
+
+#photoTh2{
+	width: 700px;
+	text-align: left;
+	font-size: 20px;
+}
+
+#photoTh2:hover{
+	cursor: pointer;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.card-photo{
+	margin-top: 20px;
+	display: inline-block;
+	width: 270px;
+	margin: 15px;
+	background-color: white;
+	padding: 5px
+}
